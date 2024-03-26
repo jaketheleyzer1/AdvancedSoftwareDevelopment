@@ -84,15 +84,15 @@ public class MagazineRack {
         rack.addMagazine("People");
         rack.addMagazine("Sports");
 
-        System.out.println("Printing from front:");
+        System.out.println("PRINTING FROM FRONT:");
         rack.printFromFront();
 
-        System.out.println("\nPrinting from back:");
+        System.out.println("\nPRINTING FROM BACK:");
         rack.printFromBack();
 
 
         rack.removeMagazine("Time");
-        System.out.println("\nAfter removing Time, printing from front:");
+        System.out.println("\nAFTER REMOVING Time, PRINTING FROM FRONT:");
         rack.printFromFront();
     }
 }
