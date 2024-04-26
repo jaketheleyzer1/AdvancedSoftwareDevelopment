@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class TestScoreExceptionHandler {
     public static void  main(String[] args) throws TestScoreException {
 
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner =new Scanner(System.in);
 
 
 
