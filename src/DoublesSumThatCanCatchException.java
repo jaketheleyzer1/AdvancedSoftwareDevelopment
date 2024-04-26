@@ -26,7 +26,7 @@ public class DoublesSumThatCanCatchException {
 
         }
 
-        System.out.println("\nStill not a double. The sum of the rest of the numbers is " + sum);
+        System.out.println("\n" + "Still not a double. The sum of the rest of the numbers is " + sum);
 
 
 
